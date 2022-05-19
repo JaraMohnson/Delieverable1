@@ -40,6 +40,7 @@ while (true)
         else if (restart == "YES")
             break;
         else
+            Console.WriteLine("Goodbye!");
             return;
 
     }
